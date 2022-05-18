@@ -1,0 +1,1 @@
+export type AuthorBio = { name: string, content: string };
