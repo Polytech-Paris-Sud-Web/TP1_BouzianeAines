@@ -5,7 +5,6 @@ import { ArticleService } from '../../services/article/article.service';
 @Component({
   selector: 'app-articles',
   templateUrl: './articles.component.html',
-  styleUrls: ['./articles.component.css']
 })
 export class ArticlesComponent implements OnInit {
 
